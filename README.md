@@ -16,10 +16,68 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
+<html>
+<head>
+<title>bio data</title>
+<style type="text/css">
+body
+{
+color: darkviolet;
+text-align: center;
+}
+h1
+{
+color:blue;
+background-color:yellow;
+}
+hr
+{
+background-color: deepskyblue;
+height: 5px;
+}
+p
+{
+text-align: justify;
+border-style: dashed;
+border-width: 4px;
+border-color:deeppink;
+}
+</style>
+</head>
+<body>
+<h1>BIO DATA</h1>
+<hr>
+<p>
+Name: KANNADHASAN S
+<br>
+<br>
+date of birth: 6/12/2005
+<br>
+<br>
+Department: btech.agricultural engineering 
+<br>
+<br>
+Year: I YEAR
+<br>
+<br>
+Hobbies:playing games ,football
+<br>
+<br>
+skills:football,c programming,web designing
+<br>
+<br>
+Mobile Number:2475981765
+<br>
+<br>
+E-Mail ID: iasufsochfbiuri2004@GMAIL.COM
+</p>
+</body>
+</html>
+```
 
 ## OUTPUT
-
+![alt text](<Screenshot (69).png>)
 
 ## RESULT
   Bio-data with appropriate CSS styles and properties is created successfully.
